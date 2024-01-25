@@ -1,0 +1,6 @@
+[submodule "zkhack/puzzle-gamma-ray"]
+	path = zkhack/puzzle-gamma-ray
+	url = git@github.com:thor314/puzzle-gamma-ray.git
+[submodule "zkhack/puzzle-supervillain"]
+	path = zkhack/puzzle-supervillain
+	url = git@github.com:thor314/puzzle-supervillain.git
