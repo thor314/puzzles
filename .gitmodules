@@ -4,3 +4,6 @@
 [submodule "zkhack/puzzle-supervillain"]
 	path = zkhack/puzzle-supervillain
 	url = git@github.com:thor314/puzzle-supervillain.git
+[submodule "zkhack/zkhack-1-puzzle-1"]
+	path = zkhack/zkhack-1-puzzle-1
+	url = git@github.com:thor314/zkhack-1-puzzle-1.git
