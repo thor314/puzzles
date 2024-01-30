@@ -10,3 +10,6 @@
 [submodule "euler-rs-py"]
 	path = euler-rs-py
 	url = git@github.com:thor314/euler-rs-py.git
+[submodule "rust-euler"]
+	path = rust-euler
+	url = git@github.com:thor314/rust-euler.git
