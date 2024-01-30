@@ -7,3 +7,6 @@
 [submodule "zkhack/zkhack-1-puzzle-1"]
 	path = zkhack/zkhack-1-puzzle-1
 	url = git@github.com:thor314/zkhack-1-puzzle-1.git
+[submodule "euler-rs-py"]
+	path = euler-rs-py
+	url = git@github.com:thor314/euler-rs-py.git
