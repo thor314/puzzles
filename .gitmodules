@@ -13,3 +13,6 @@
 [submodule "rust-euler"]
 	path = rust-euler
 	url = git@github.com:thor314/rust-euler.git
+[submodule "zkhack/puzzle-chaos-theory"]
+	path = zkhack/puzzle-chaos-theory
+	url = git@github.com:thor314/puzzle-chaos-theory.git
